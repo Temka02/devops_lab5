@@ -5,7 +5,7 @@ on:
     workflows: ["Test Python app"]
     types : [completed]
     branches:
-    - 'main/**'
+    - 'main/'
 
 jobs:
   cd:

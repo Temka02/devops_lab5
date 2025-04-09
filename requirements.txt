@@ -4,4 +4,3 @@ pytest
 httpx 
 pydantic 
 pydantic-settings 
-typing

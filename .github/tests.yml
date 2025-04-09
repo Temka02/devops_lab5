@@ -1,5 +1,4 @@
 name: Test Python app
-
 on:
   push:
     branches:

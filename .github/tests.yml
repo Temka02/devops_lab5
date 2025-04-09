@@ -2,6 +2,7 @@ name: Test Python app
 on:
   push:
     branches:
+      - '*'
 
 jobs:
   ci:
